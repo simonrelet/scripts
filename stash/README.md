@@ -4,7 +4,7 @@
 
 ## Install
 
-See the script [installation steps](https://github.com/simonrelet/scripts/tree/master/README.md).
+See the script [installation steps](https://github.com/simonrelet/scripts/tree/master/README.md#install).
 
 ## Usage
 
